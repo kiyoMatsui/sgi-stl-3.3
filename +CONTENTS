@@ -1,0 +1,200 @@
+@cwd /usr/pkg
+@name sgi-stl-3.3
+@blddep digest-20190127
+@blddep cwrappers-20180325
+@comment $NetBSD: PLIST,v 1.2 2009/06/14 17:49:14 joerg Exp $
+include/sgi-stl/algo.h
+@comment MD5:6407e519d5b3285a1b2e9f46e949562d
+include/sgi-stl/algobase.h
+@comment MD5:1a345c150042a3b32b005c415554c13b
+include/sgi-stl/algorithm
+@comment MD5:d97043e82b9a616a156817d225e4467c
+include/sgi-stl/alloc.h
+@comment MD5:ebe72f26e1ff977ffa0a12cb96c9f03b
+include/sgi-stl/bitset
+@comment MD5:0bcf413fda63cb030ac17470bd1ebf17
+include/sgi-stl/bvector.h
+@comment MD5:e6fde371c7487e0de2bf9f8e7c4fa983
+include/sgi-stl/char_traits.h
+@comment MD5:e9476dd03be82e9006a1fd5c38ff0f2e
+include/sgi-stl/concept_checks.h
+@comment MD5:5ed774ee0e3e8f1bf6d96af6451bacb1
+include/sgi-stl/container_concepts.h
+@comment MD5:5f2129be168d342a92af1fc730fed963
+include/sgi-stl/defalloc.h
+@comment MD5:3fb5486851dd43e2167a42d4bf4a3e84
+include/sgi-stl/deque
+@comment MD5:fc7c1cf25a2004ba8bd2fa650bee818b
+include/sgi-stl/deque.h
+@comment MD5:a99a87aff941d8a28ac9843a11e3333a
+include/sgi-stl/function.h
+@comment MD5:9fae007d0e7f1c58a8fc2038449db69a
+include/sgi-stl/functional
+@comment MD5:724b666833555d94619ce8085230f18c
+include/sgi-stl/hash_map
+@comment MD5:20fa1cb9fc7e3899df519b1b0a2248f7
+include/sgi-stl/hash_map.h
+@comment MD5:bbf5089421222a02f7518a2d69eba8a6
+include/sgi-stl/hash_set
+@comment MD5:0719080e0bd5d5dfcc814242d8386685
+include/sgi-stl/hash_set.h
+@comment MD5:67c47cb39d48a909687d9957117459a2
+include/sgi-stl/hashtable.h
+@comment MD5:78984b4df781d893529a59cdf748776a
+include/sgi-stl/heap.h
+@comment MD5:7023e65952ef3e8dd003409a4713bd83
+include/sgi-stl/iterator
+@comment MD5:64e4462a83288c1ed54fd5f1386697a2
+include/sgi-stl/iterator.h
+@comment MD5:b202345156bab620e0b3cf00895483ac
+include/sgi-stl/limits
+@comment MD5:6e11184353e202e9f4c081a358649418
+include/sgi-stl/list
+@comment MD5:af31b20300735469a00a3ffc0745ee3b
+include/sgi-stl/list.h
+@comment MD5:b5f00c30bcc3c329fadaeb096164f935
+include/sgi-stl/map
+@comment MD5:4faffa9622b4d7b384b38c4d596694a4
+include/sgi-stl/map.h
+@comment MD5:6c6b7ef7749a595f61ffed8146732466
+include/sgi-stl/memory
+@comment MD5:0bebf1504eddf864f1f051b327d32434
+include/sgi-stl/multimap.h
+@comment MD5:eb46fb33114add47edd2d42e4675dc5c
+include/sgi-stl/multiset.h
+@comment MD5:183b87a270fbeeb9b922f2fb845620c2
+include/sgi-stl/numeric
+@comment MD5:a34d58c639e971fd336a11e8143619af
+include/sgi-stl/pair.h
+@comment MD5:7f8f7a291de6537603c03671e81a7fb7
+include/sgi-stl/pthread_alloc
+@comment MD5:1d3ee618f6f5e1cb093205b8d9cafd42
+include/sgi-stl/pthread_alloc.h
+@comment MD5:f367ec12ce2efb0a570aec4eeeb998f3
+include/sgi-stl/queue
+@comment MD5:be10419938bbd4c461248eab3b1a5577
+include/sgi-stl/rope
+@comment MD5:e6197f8b1174cdba45c7391cfabad5b7
+include/sgi-stl/rope.h
+@comment MD5:3e75de697ee070b462813c82a4b9a257
+include/sgi-stl/ropeimpl.h
+@comment MD5:58562137746a45edb81bc0d7d34187d2
+include/sgi-stl/sequence_concepts.h
+@comment MD5:fd5d0c7b569154dd59b573bfd7c430ba
+include/sgi-stl/set
+@comment MD5:0ca7f59c28fcf11ee459229bcd637a98
+include/sgi-stl/set.h
+@comment MD5:1e346d173fcb6d0e627ff4ac68a8cfd4
+include/sgi-stl/slist
+@comment MD5:5940a89e33e1d7ea57c4a0d52ef4d7e6
+include/sgi-stl/slist.h
+@comment MD5:b4360e238a173fbd130370fff736ecdf
+include/sgi-stl/stack
+@comment MD5:19ad3db067d07261a0ce0ece1c271746
+include/sgi-stl/stack.h
+@comment MD5:d40891b4af4546c58f03420e799a29fc
+include/sgi-stl/stdexcept
+@comment MD5:0dd1db12fca5e0f481f0a8577ca3fcbd
+include/sgi-stl/stl_algo.h
+@comment MD5:e9291714b532af21f14a929aee4c74dd
+include/sgi-stl/stl_algobase.h
+@comment MD5:2693eefde8c7dcc0cb17a79cbe7ab807
+include/sgi-stl/stl_alloc.h
+@comment MD5:0369df63901b2d853adc223ec8f529f6
+include/sgi-stl/stl_bvector.h
+@comment MD5:527f4514d0e2790b9aaee489c96bc447
+include/sgi-stl/stl_config.h
+@comment MD5:11c8292585c6604026080eced3abe822
+include/sgi-stl/stl_construct.h
+@comment MD5:426da8bae8689555aa336804eb96a0e9
+include/sgi-stl/stl_ctraits_fns.h
+@comment MD5:89e159d7d11f13577c8aa712635f1689
+include/sgi-stl/stl_deque.h
+@comment MD5:79460721046c076f9ec8ab6e94b0ef5a
+include/sgi-stl/stl_exception.h
+@comment MD5:533bc7a8e45051fbdc0d760bbd801d4c
+include/sgi-stl/stl_function.h
+@comment MD5:b08195452a86a390054f18efec51cf39
+include/sgi-stl/stl_hash_fun.h
+@comment MD5:5ae8be0b154edd81bc43037f21f6ec18
+include/sgi-stl/stl_hash_map.h
+@comment MD5:e4fb49b49ac7451d728e8b06de68d59a
+include/sgi-stl/stl_hash_set.h
+@comment MD5:e946c8c38137375c7bce238c0e6bcf44
+include/sgi-stl/stl_hashtable.h
+@comment MD5:69cb5d9eebecaa432c0e150602e095fc
+include/sgi-stl/stl_heap.h
+@comment MD5:a4104831907f2062f75c4c8a662e93db
+include/sgi-stl/stl_iterator.h
+@comment MD5:937544c9a0151a9faf5d650dfdc798e6
+include/sgi-stl/stl_iterator_base.h
+@comment MD5:676a5ccefef75c844dddfbe286351be9
+include/sgi-stl/stl_list.h
+@comment MD5:72d2c38724a1d136a95fb0d592e4e308
+include/sgi-stl/stl_map.h
+@comment MD5:60b26f4de4737c936a08ea81084a7561
+include/sgi-stl/stl_multimap.h
+@comment MD5:c1b02329ba11bb3daba3c5476b6fd818
+include/sgi-stl/stl_multiset.h
+@comment MD5:cda84290ee94462edba445f43f9cb035
+include/sgi-stl/stl_numeric.h
+@comment MD5:cdc4aebb96a1a243b78535deafc51032
+include/sgi-stl/stl_pair.h
+@comment MD5:d5ba77289327f30db3bf34a25c3fc880
+include/sgi-stl/stl_queue.h
+@comment MD5:a1574ab36f4326c51b90784f5eea3a23
+include/sgi-stl/stl_range_errors.h
+@comment MD5:f2d2963bc2c350e613d3cad7c383a6f0
+include/sgi-stl/stl_raw_storage_iter.h
+@comment MD5:a078d5a51ae62f4624b900deaf6529b0
+include/sgi-stl/stl_relops.h
+@comment MD5:5975dc64bbc98aaae538440c7b5bd0dc
+include/sgi-stl/stl_rope.h
+@comment MD5:110cb2525b67297c00f43428d592f704
+include/sgi-stl/stl_set.h
+@comment MD5:b161acb7512cd808fc744dcbef903e31
+include/sgi-stl/stl_slist.h
+@comment MD5:5ebfbc1a56109889d8b472368ad72084
+include/sgi-stl/stl_stack.h
+@comment MD5:2a58d5e0f45d6832ed88169ca7959206
+include/sgi-stl/stl_string_fwd.h
+@comment MD5:bdd2e1076510c7364a2ca153e938192c
+include/sgi-stl/stl_tempbuf.h
+@comment MD5:9d75ad9e14b079b6603bf169772faf14
+include/sgi-stl/stl_threads.h
+@comment MD5:80069c21ffc203a3b495bb9aebc5e742
+include/sgi-stl/stl_tree.h
+@comment MD5:469f9af2689bc72e0ed10d9fbbb13c81
+include/sgi-stl/stl_uninitialized.h
+@comment MD5:5bb844a293d96d7cff971f21aeebedba
+include/sgi-stl/stl_vector.h
+@comment MD5:23c52073462239c1b1b83b7b23f95f44
+include/sgi-stl/string
+@comment MD5:151080d56932ddd02ca35003fe03f408
+include/sgi-stl/tempbuf.h
+@comment MD5:4469baa662f9f03c286f51c5cc022fa3
+include/sgi-stl/tree.h
+@comment MD5:6abc82450a039a91750c2d6ed1de0ee3
+include/sgi-stl/type_traits.h
+@comment MD5:1499d47d0cf05faea56b91f2a91473d6
+include/sgi-stl/utility
+@comment MD5:1f43892ec24174561cee10b114893e38
+include/sgi-stl/valarray
+@comment MD5:951cec4cdf4ace7112e94a3ab495e44b
+include/sgi-stl/vector
+@comment MD5:dcd6224588bac9e5a08f198536cf209f
+include/sgi-stl/vector.h
+@comment MD5:dcb8772c4cd105fc3997504576d89051
+@cwd /usr/pkg
+@ignore
++COMMENT
+@ignore
++DESC
+@ignore
++BUILD_VERSION
+@ignore
++BUILD_INFO
+@ignore
++SIZE_PKG
+@ignore
++SIZE_ALL
